@@ -32,6 +32,6 @@
 ## 附录
 
 * [Mixin](mixin.md)
-* [函数式编程](fb.md)
+* [函数式编程](fp.md)
 * [SIMD](simd.md)
 
