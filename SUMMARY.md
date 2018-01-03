@@ -4,7 +4,7 @@
 * [ECMAScript 6 简介](intro.md)
 * [let 和 const 命令](let.md)
 * [变量的解构赋值](destructuring.md)
-* [前言](README.md)
+* [字符串的扩展](string.md)
 * [前言](README.md)
 * [前言](README.md)
 * [前言](README.md)
