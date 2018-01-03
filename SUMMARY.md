@@ -17,7 +17,7 @@
 * [Promise 对象](promise.md)
 * [Iterator 和 for...of 循环](iterator.md)
 * [Generator 函数的语法](generator.md)
-* [Generator 函数的异步应用](generator-aysnc.md)
+* [Generator 函数的异步应用](generator-async.md)
 * [async 函数](async.md)
 * [Class 的基本语法](class.md)
 * [Class 的继承](class-extends.md)
