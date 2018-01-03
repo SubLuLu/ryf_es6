@@ -31,5 +31,5 @@
 
 ## 附录
 * [Mixin](mixin.md)
-* [修订历史](README.md)
-* [反馈意见](README.md)
+* [函数式编程](fb.md)
+* [反馈意见](simd.md)
