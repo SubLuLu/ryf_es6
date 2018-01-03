@@ -12,7 +12,7 @@
 * [对象的扩展](object.md)
 * [Symbol](symbol.md)
 * [Set 和 Map 数据结构](set-map.md)
-* [前言](README.md)
+* [Proxy](proxy.md)
 * [前言](README.md)
 * [前言](README.md)
 * [前言](README.md)
