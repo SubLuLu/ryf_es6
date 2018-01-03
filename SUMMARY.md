@@ -15,7 +15,7 @@
 * [Proxy](proxy.md)
 * [Reflect](reflect.md)
 * [Promise 对象](promise.md)
-* [前言](README.md)
+* [Iterator 和 for...of 循环](iterator.md)
 * [前言](README.md)
 * [前言](README.md)
 * [前言](README.md)
