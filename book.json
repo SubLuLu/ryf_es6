@@ -1,0 +1,14 @@
+{
+	"gitbook": "2.x",
+	"title": "Git中文教程",
+	"description": "<Git中文教程>PDF版",
+	"author":"廖雪峰",
+	"language": "zh-hans",
+	"structure": {
+		"readme": "README.md"
+	},
+	"plugins": [
+		"katex",
+		"-search"
+	]
+}
