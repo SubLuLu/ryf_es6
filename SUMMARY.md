@@ -18,7 +18,7 @@
 * [Iterator 和 for...of 循环](iterator.md)
 * [Generator 函数的语法](generator.md)
 * [Generator 函数的异步应用](generator-aysnc.md)
-* [前言](README.md)
+* [async 函数](async.md)
 * [前言](README.md)
 * [前言](README.md)
 * [前言](README.md)
