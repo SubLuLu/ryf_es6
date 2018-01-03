@@ -2,7 +2,7 @@
 
 《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
-[![](/img/thumbnail.jpg)](images/cover-3rd.jpg)
+![](/img/thumbnail.jpg)
 
 本书覆盖 ES6 与上一个版本 ES5 的所有不同之处，对涉及的语法知识给予详细介绍，并给出大量简洁易懂的示例代码。
 
