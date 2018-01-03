@@ -10,7 +10,7 @@
 * [函数的扩展](function.md)
 * [数组的扩展](array.md)
 * [对象的扩展](object.md)
-* [前言](README.md)
+* [Symbol](symbol.md)
 * [前言](README.md)
 * [前言](README.md)
 * [前言](README.md)
