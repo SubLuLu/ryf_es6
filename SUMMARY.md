@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [前言](README.md)
 * [ECMAScript 6 简介](intro.md)
@@ -21,7 +21,7 @@
 * [async 函数](async.md)
 * [Class 的基本语法](class.md)
 * [Class 的继承](class-extends.md)
-* [Decorator](decorator.md)
+* [修饰器](decorator.md)
 * [Module 的语法](module.md)
 * [Module 的加载实现](module-loader.md)
 * [编程风格](style.md)
@@ -30,6 +30,8 @@
 * [参考链接](reference.md)
 
 ## 附录
+
 * [Mixin](mixin.md)
 * [函数式编程](fb.md)
 * [SIMD](simd.md)
+
