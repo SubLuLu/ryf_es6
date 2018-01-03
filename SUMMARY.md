@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [ECMAScript 6 简介](intro.md)
 * [let 和 const 命令](let.md)
-* [前言](README.md)
+* [变量的解构赋值](destructuring.md)
 * [前言](README.md)
 * [前言](README.md)
 * [前言](README.md)
