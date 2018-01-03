@@ -30,6 +30,6 @@
 * [参考链接](reference.md)
 
 ## 附录
-* [源码](README.md)
+* [Mixin](mixin.md)
 * [修订历史](README.md)
 * [反馈意见](README.md)
