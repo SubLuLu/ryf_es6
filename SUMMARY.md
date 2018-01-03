@@ -32,4 +32,4 @@
 ## 附录
 * [Mixin](mixin.md)
 * [函数式编程](fb.md)
-* [反馈意见](simd.md)
+* [SIMD](simd.md)
